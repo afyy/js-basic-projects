@@ -28,6 +28,6 @@ body{
   text-transform: capitalize;
 }
 
-.hexBtn:hove{
+.hexBtn:hover{
   background: rgb(0, 0, 0);
 }
